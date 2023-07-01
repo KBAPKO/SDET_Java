@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9c15792-66e6-4f46-be91-10ca00a23e68" name="Changes" comment="">
+    <list default="true" id="c9c15792-66e6-4f46-be91-10ca00a23e68" name="Changes" comment="Создание репозитория">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -103,6 +103,14 @@
       <option name="presentableId" value="Default" />
       <updated>1688233131669</updated>
     </task>
+    <task id="LOCAL-00001" summary="Создание репозитория">
+      <created>1688234622731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688234622731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,5 +123,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Создание репозитория" />
+    <option name="LAST_COMMIT_MESSAGE" value="Создание репозитория" />
   </component>
 </project>
